@@ -1,4 +1,5 @@
 # Mw2Internal
-Mw2 Internal Cheat Source
+Mw2 Internal Cheat Source that got leaked (slightly updated by me for modern systems)
 
-If you want to hire a dev to develop your cheat UD for BE or EAC my discord is -> leur556
+# Contact
+If you want to hire a dev for your projects contact me over discord : leur556 - Bypasses for BE & EAC with full UM Clients + ImGui & API's
